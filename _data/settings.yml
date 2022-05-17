@@ -18,6 +18,12 @@ menu_settings:
       url: '/about'
     - title: 'Contact'
       url: '/contact'
+    - title: 'Playground'
+      url: '/playground'
+    - title: 'The team'
+      url: '/theteam'
+
+
 
 grid_settings:
   grid_spacing: 10

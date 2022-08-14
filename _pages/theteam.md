@@ -9,12 +9,13 @@ featured_image: https://avatars.githubusercontent.com/u/5190890?v=4
 <!-- /images/demo/demo-portrait.jpg -->
 ![texto alternativo](https://avatars.githubusercontent.com/u/5190890?v=4)
 
-- Lucia Cipolina Kun 
-- Simone Caenazzo
-- Gaston Mazzei
+- [Lucia Cipolina-Kun](https://lcipolina.github.io/)
+- [Simone Caenazzo](https://www.linkedin.com/in/simone-caenazzo-a0a89774/)
+- [Gaston Mazzei](https://www.gresearch.co.uk/](https://gastonmazzei.github.io/)
+
 
 ## Sponsors
-* [GResearch]([https://link-url-here.org](https://www.gresearch.co.uk/))
+* [GResearch](https://www.gresearch.co.uk/)
 
 
 ## Collaborators

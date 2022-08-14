@@ -2,7 +2,7 @@
 title: The Team
 subtitle: Presenting the team and historical collaborators.
 description: Presenting the team and historical collaborators.
-featured_image: (https://github.com/EscherPrintGallery/EscherPrintGallery.github.io/blob/main/images/3members1.png?raw=true)
+featured_image: /images/3members1.png
 ---
 
 
@@ -21,8 +21,8 @@ featured_image: (https://github.com/EscherPrintGallery/EscherPrintGallery.github
 ## Collaborators
 
 * Colaborator1
-* Another one
-* Another one
+* MLCollective
+* EleutherAI
 
 <!-- ## Get Index -->
 

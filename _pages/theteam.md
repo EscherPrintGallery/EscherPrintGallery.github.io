@@ -14,12 +14,12 @@ featured_image: https://avatars.githubusercontent.com/u/5190890?v=4
 - Gaston Mazzei
 
 ## Sponsors
-* LatinXAI
+* [GResearch]([https://link-url-here.org](https://www.gresearch.co.uk/))
 
 
 ## Collaborators
 
-* Aditya Srinivas Menon
+* Colaborator1
 * Another one
 * Another one
 

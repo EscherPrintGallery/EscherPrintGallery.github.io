@@ -24,5 +24,5 @@ featured_image: (https://github.com/EscherPrintGallery/EscherPrintGallery.github
 * Another one
 * Another one
 
-## Get Index
+<!-- ## Get Index -->
 

@@ -11,7 +11,7 @@ featured_image: https://avatars.githubusercontent.com/u/5190890?v=4
 
 - [Lucia Cipolina-Kun](https://lcipolina.github.io/)
 - [Simone Caenazzo](https://www.linkedin.com/in/simone-caenazzo-a0a89774/)
-- [Gaston Mazzei](https://www.gresearch.co.uk/](https://gastonmazzei.github.io/)
+- [Gaston Mazzei](https://gastonmazzei.github.io/)
 
 
 ## Sponsors

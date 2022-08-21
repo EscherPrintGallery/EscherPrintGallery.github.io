@@ -20,9 +20,13 @@ featured_image: /images/3members1.png
 
 ## Collaborators
 
-* Colaborator1
-* MLCollective
-* EleutherAI
+* [Sergio Papadakis](https://www.linkedin.com/in/sergio-manuel-papadakis-05a23513a/?originalSubdomain=ar)
+* [Cris Luengo](https://www.crisluengo.net/)
+* [Jim Schmitz](http://ixora.io/)
+* [Sid Chou](https://sidchou.com/)
+* [ML Collective](https://mlcollective.org/)
+* [EleutherAI](https://www.eleuther.ai/)
+
 
 <!-- ## Get Index -->
 
